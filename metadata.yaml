@@ -17,6 +17,8 @@ description: "A Short Biographical Dictionary of English Literature is a collect
   \ Shakespeare's, are quite lengthy.The book was the 5,000th e-book provided by the\
   \ Distributed Proofreaders project to Project Gutenberg, where it was released on\
   \ August 21, 2004.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13240#A-Short-Biographical-Dictionary-of-English-Literature
 gutenberg_bookshelf: Reference
 gutenberg_issued: '2004-08-21'
 gutenberg_type: Text
