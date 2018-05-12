@@ -1,0 +1,39 @@
+_repo: A-Short-Biographical-Dictionary-of-English-Literature_13240
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cousin, John W. (John William)
+    alias: Cousin John William
+    birthdate: 1849
+    deathdate: 1910
+    gutenberg_agent_id: '4951'
+    url: http://www.gutenberg.org/2009/agents/4951
+description: "A Short Biographical Dictionary of English Literature is a collection\
+  \ of biographies of writers by John William Cousin (1849–1910), published in 1910.\
+  \ Most of the entries consist of only one paragraph but some entries, like William\
+  \ Shakespeare's, are quite lengthy.The book was the 5,000th e-book provided by the\
+  \ Distributed Proofreaders project to Project Gutenberg, where it was released on\
+  \ August 21, 2004.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Reference
+gutenberg_issued: '2004-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13240'
+  wikidata: Q4659461
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- Bio-bibliography'
+- !lcsh 'American literature -- Bio-bibliography'
+- !lcc 'PS'
+- !lcc 'PR'
+title: A Short Biographical Dictionary of English Literature
+url: http://www.gutenberg.org/ebooks/13240
+wikipedia:
+- https://en.wikipedia.org/wiki/A_Short_Biographical_Dictionary_of_English_Literature
+- https://no.wikipedia.org/wiki/A_Short_Biographical_Dictionary_of_English_Literature
